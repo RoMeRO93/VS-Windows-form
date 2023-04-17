@@ -1,1 +1,1 @@
-# curs 26.01.23
+# Editor text
